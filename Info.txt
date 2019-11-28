@@ -1,0 +1,6 @@
+DB- MSSQLSERVER02
+
+
+
+Username:
+eshopUser
